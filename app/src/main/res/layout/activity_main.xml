@@ -40,7 +40,6 @@
         android:gravity="center"
         android:layout_marginTop="78dp"
         android:hint="Enter Starting Position"
-
-        android:layout_centerHorizontal="true" />
+         android:layout_centerHorizontal="true" />
 
 </RelativeLayout>
